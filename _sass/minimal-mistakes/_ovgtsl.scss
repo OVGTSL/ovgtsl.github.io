@@ -1,0 +1,16 @@
+/*!
+ * OVGTSL Modifications
+ * Copyright 2021 - Derek Zoladz | derekzoladz.com
+ * Licensed under MIT
+*/
+
+.feature_row_img_wrapper {
+  position: relative;
+}
+
+.feature_row_icon {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
