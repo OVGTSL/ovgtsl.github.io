@@ -16,7 +16,7 @@ feature_row:
     image_path: /assets/images/500x300.png
     alt: "scholarships"
     image_caption:
-    fontawesome_icon: "fab fa-accessible-icon"
+    fontawesome_icon: "fas fa-hand-holding-usd"
     excerpt: "The Ohio Valley Group of Technical Services Librarians awards three scholarships every year to attend the organization’s annual conference."
     url: "/scholarships/"
     btn_class: "btn--primary"
@@ -25,6 +25,7 @@ feature_row:
     image_path: /assets/images/500x300.png
     alt: "Conference"
     image_caption:
+    fontawesome_icon: "fas fa-volume-up"
     excerpt: "OVGTSL’s annual conference, usually held in late spring, rotates among Indiana, Ohio and Kentucky on a regular basis."
     url: "/conferences/"
     btn_class: "btn--primary"
@@ -33,6 +34,7 @@ feature_row:
     image_path: /assets/images/500x300.png
     alt: "Bylaws"
     image_caption:
+    fontawesome_icon: "fas fa-balance-scale"
     excerpt: "Read the bylaws of the Ohio Valley Group of Technical Services Librarians."
     url: "/bylaws/"
     btn_class: "btn--primary"
