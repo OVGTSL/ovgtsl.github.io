@@ -9,18 +9,6 @@
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
-        <!--
-        {% if f.image_path %}
-          <div class="archive__item-teaser">
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-                 <i class="fab fa-accessible-icon"></i>
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
-          </div>
-        {% endif %}
-        -->
 
         {% if f.image_path %}
           <div class="archive__item-teaser">
@@ -32,7 +20,7 @@
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
-        {% endif %}
+         {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
