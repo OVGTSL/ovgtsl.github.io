@@ -25,7 +25,7 @@ feature_row:
     image_path: /assets/images/500x300.png
     alt: "Conference"
     image_caption:
-    fontawesome_icon: "fas fa-hotel"
+    fontawesome_icon: "fas fa-chalkboard-teacher"
     excerpt: "OVGTSL’s annual conference, usually held in late spring, rotates among Indiana, Ohio and Kentucky on a regular basis."
     url: "/conferences/"
     btn_class: "btn--primary"
