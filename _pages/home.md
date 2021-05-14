@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-user-plus'></i>  Join/Renew"
       url: "/join/"
 excerpt: >
-  <small>TAGLINE: ...</small>
+  <small class="site_tagline">TAGLINE HERE</small>
 feature_row:
   - title: "Scholarships"
     image_path: /assets/images/500x300.png
