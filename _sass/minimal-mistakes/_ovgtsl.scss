@@ -4,6 +4,20 @@
  * Licensed under MIT
 */
 
+.conf_table{
+	display: table;
+	.body {
+	  display: table-row-group;
+	  .row {
+	    display: table-row;
+	    .cell {
+	      display: table-cell;
+	      vertical-align: middle;
+      }
+    }
+  }
+}
+
 .feature_row_img_wrapper {
   position: relative;
   background-image:
