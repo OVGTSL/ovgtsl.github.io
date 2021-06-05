@@ -21,7 +21,7 @@ The purpose of the organization is to provide an opportunity to gather together 
 |-------------------|-------------------|---------------------------------|-------------------------------|
 | Chair             | Kate Seago        | University of Kentucky          | kseago@uky.edu                |
 | Chairperson Elect | Melanie McGurr    | University of Akron             | mmcgurr1@uakron.edu           |
-| Secretary         | Amy Bailey        | Indiana University Bloomington  | abbailey@indiana.edu          |
+| Secretary         | Amy Bailey        | Indiana University Bloomington  | abbailey@iu.edu               |
 | Treasurer         | Susan Ashby       | University of Akron             | ashby@uakron.edu              |
 | Archivist         | Kathryn Lybarger  | University of Kentucky          | kathryn.lybarger@uky.edu      |
 | Webmaster         | Jennifer Howard   | Frontier Nursing University     | jennifer.howard@frontier.edu  |
