@@ -39,7 +39,7 @@
 }
 
 .grow {
-  transition: all .5s ease-in-out;
+  transition: all .3s linear;
   &:hover {
     transform: scale(1.2);
   }
