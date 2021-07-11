@@ -12,10 +12,12 @@
 
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <div class="feature_row_img_wrapper grow">
-              <i class="feature_row_icon {{ f.fontawesome_icon }}"></i>
-              <img src="{{ f.image_path | relative_url }}" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            </div>
+            <a href="{{ f.url | relative_url }}">
+              <div class="feature_row_img_wrapper grow">
+                <i class="feature_row_icon {{ f.fontawesome_icon }}"></i>
+                <img src="{{ f.image_path | relative_url }}" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              </div>
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
