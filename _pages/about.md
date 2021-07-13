@@ -30,6 +30,6 @@ The purpose of the organization is to provide an opportunity to gather together 
 
 # Mailing List
 
-To subscribe, send an email to LISTSERV@LSV.UKY.EDU with only the following in the message body (paste it!): SUBSCRIBE OVGTSL
+To subscribe, send an email to *LISTSERV@LSV.UKY.EDU* with only the following in the message body: **SUBSCRIBE OVGTSL**
 
-[More Info](http://www.lsoft.com/scripts/wl.exe?SL1=OVGTSL&H=LSV.UKY.EDU){: .btn .btn--primary}
+<a class="btn btn--info" href="mailto:LISTSERV@LSV.UKY.EDU?subject=SUBSCRIBE OVGTSL&body=SUBSCRIBE OVGTSL">Send Email</a> [More Info](http://www.lsoft.com/scripts/wl.exe?SL1=OVGTSL&H=LSV.UKY.EDU){: .btn .btn-light}
