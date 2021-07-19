@@ -68,8 +68,8 @@ The following example uses "issue#3" as a subject. That's the branch name and is
    - ```git commit -m "fixes issue #3"```
 8. Add your branch to the repo
    - ```git push --set-upstream origin issue#3```
-9. Switch back to the master branch
-   - ```git checkout master```
+9. Switch back to the main branch
+   - ```git checkout main```
 10. Go to [https://github.com/OVGTSL/ovgtsl.github.io](https://github.com/OVGTSL/ovgtsl.github.io)
 11. Make a pull request base:master and compare:issue-3
 12. Wait for someone to test your changes and merge the pull request
@@ -84,4 +84,4 @@ The following example uses "issue#3" as a subject. That's the branch name and is
    - ```git checkout BRANCHNAME```
 4. ```bundle exec jekyll serve```
 5. Check [http://localhost:4000](http://localhost:4000) that nothing is broken
-6. Merge that branch into master (easiest to manage on the GitHub site)
+6. Merge that branch into main (easiest to manage on the GitHub site)
