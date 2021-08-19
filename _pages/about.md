@@ -24,7 +24,7 @@ The purpose of the organization is to provide an opportunity to gather together 
 | Secretary         | Amy Bailey        | Indiana University Bloomington  | abbailey@iu.edu               |
 | Treasurer         | Susan Ashby       | University of Akron             | ashby@uakron.edu              |
 | Archivist         | Kathryn Lybarger  | University of Kentucky          | kathryn.lybarger@uky.edu      |
-| Webmaster         | Derek Zoladz      | OhioNET                         | derekz@ohionet.org            |
+| Webmaster         | Derek Zoladz      | OhioNet                         | derekz@ohionet.org            |
 
 <hr class="invisible"/>
 
