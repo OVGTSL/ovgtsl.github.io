@@ -17,14 +17,14 @@ The purpose of the organization is to provide an opportunity to gather together 
 
 # Contacts
 
-| Board Position    | Name              | Affiliation                     | Email                         |
-|-------------------|-------------------|---------------------------------|-------------------------------|
-| Chair             | Kate Seago        | University of Kentucky          | kseago@uky.edu                |
-| Chairperson Elect | Melanie McGurr    | University of Akron             | mmcgurr1@uakron.edu           |
-| Secretary         | Amy Bailey        | Indiana University Bloomington  | abbailey@iu.edu               |
-| Treasurer         | Susan Ashby       | University of Akron             | ashby@uakron.edu              |
-| Archivist         | Kathryn Lybarger  | University of Kentucky          | kathryn.lybarger@uky.edu      |
-| Webmaster         | Derek Zoladz      | OhioNet                         | derekz@ohionet.org            |
+| Board Position    | Name              | Affiliation                     | Email                              |
+|-------------------|-------------------|---------------------------------|------------------------------------|
+| Chair             | Melanie McGurr    | University of Akron             | mmcgurr1@uakron.edu                |
+| Chairperson Elect | Amy Bailey        | Indiana University Bloomington  | abbailey@iu.edu                    |
+| Secretary         | Sandy Baird       | Georgetown College              | sandra.baird@georgetowncollege.edu |
+| Treasurer         | Lori Duggan       | Indiana University Bloomington  | lbadger@iu.edu                     |
+| Archivist         | Kathryn Lybarger  | University of Kentucky          | kathryn.lybarger@uky.edu           |
+| Webmaster         | Derek Zoladz      | OhioNet                         | derekz@ohionet.org                 |
 
 <hr class="invisible"/>
 
