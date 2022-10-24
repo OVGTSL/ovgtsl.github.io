@@ -17,14 +17,14 @@ The purpose of the organization is to provide an opportunity to gather together 
 
 # Contacts
 
-| Board Position         | Name             | Affiliation                    | Email                     |
-|------------------------|------------------|--------------------------------|---------------------------|
-| Chair                  | Amy Bailey       | Indiana University Bloomington | abbailey@iu.edu           |
-| Vice Chair/Chair Elect | Sandy Baird      | Georgetown College             | SandraBaird8410@gmail.com |
-| Secretary              | Morris Levy      | The Ohio State University      | levy.334@osu.edu          |
-| Treasurer              | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu     |
-| Archivist              | Kathryn Lybarger | University of Kentucky         | kathryn.lybarger@uky.edu  |
-| Webmaster              | Derek Zoladz     | OhioNet                        | derekz@ohionet.org        |
+| Board Position         | Name             | Affiliation                    | Email                    |
+|------------------------|------------------|--------------------------------|--------------------------|
+| Chair                  | Amy Bailey       | Indiana University Bloomington | abbailey@iu.edu          |
+| Vice Chair/Chair Elect | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu    |
+| Secretary              | Morris Levy      | The Ohio State University      | levy.334@osu.edu         |
+| Treasurer              | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu    |
+| Archivist              | Kathryn Lybarger | University of Kentucky         | kathryn.lybarger@uky.edu |
+| Webmaster              | Derek Zoladz     | OhioNet                        | derekz@ohionet.org       |
 
 <hr class="invisible"/>
 
