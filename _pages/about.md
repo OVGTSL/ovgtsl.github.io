@@ -24,7 +24,7 @@ The purpose of the organization is to provide an opportunity to gather together 
 | Secretary              | Morris Levy      | The Ohio State University      | levy.334@osu.edu         |
 | Treasurer              | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu    |
 | Archivist              | Kathryn Lybarger | University of Kentucky         | kathryn.lybarger@uky.edu |
-| Webmaster              | Derek Zoladz     | OhioNet                        | derekz@ohionet.org       |
+| Webmaster              | Derek Zoladz     | OPLIN                          | derek@oplin.ohio.gov      |
 
 <hr class="invisible"/>
 
