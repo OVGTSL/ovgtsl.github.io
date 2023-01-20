@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: ""
 excerpt: ""
-last_modified_at: 2021-02-05T20:54:41-05:00
+last_modified_at: 2023-01-19T20:54:41-05:00
 toc: false
 ---
 
@@ -22,9 +22,9 @@ The purpose of the organization is to provide an opportunity to gather together 
 | Chair                  | Amy Bailey       | Indiana University Bloomington | abbailey@iu.edu          |
 | Vice Chair/Chair Elect | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu    |
 | Secretary              | Morris Levy      | The Ohio State University      | levy.334@osu.edu         |
-| Treasurer              | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu    |
+| Treasurer              | Brittany Davis   | Eastern Kentucky University    | brittany.davis@eku.edu   |
 | Archivist              | Kathryn Lybarger | University of Kentucky         | kathryn.lybarger@uky.edu |
-| Webmaster              | Derek Zoladz     | OPLIN                          | derek@oplin.ohio.gov      |
+| Webmaster              | Derek Zoladz     | OPLIN                          | derek@oplin.ohio.gov     |
 
 <hr class="invisible"/>
 
