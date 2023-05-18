@@ -17,14 +17,14 @@ The purpose of the organization is to provide an opportunity to gather together 
 
 # Contacts
 
-| Board Position         | Name             | Affiliation                    | Email                    | Active      |
-|------------------------|------------------|--------------------------------|--------------------------|-------------|
-| Chair                  | Amy Bailey       | Indiana University Bloomington | abbailey@iu.edu          | 2023        |
-| Vice Chair/Chair Elect | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu    | 2023        |
-| Secretary              | Morris Levy      | The Ohio State University      | levy.334@osu.edu         | 2023        |
-| Treasurer              | Brittany Davis   | Eastern Kentucky University    | brittany.davis@eku.edu   | 2023        |
-| Archivist              | Kathryn Lybarger | University of Kentucky         | kathryn.lybarger@uky.edu | 2021 - 2024 |
-| Webmaster              | Derek Zoladz     | OPLIN                          | derek@oplin.ohio.gov     | 2021 - 2024 |
+| Board Position         | Name             | Affiliation                    | Email                     | Active      |
+|------------------------|------------------|--------------------------------|---------------------------|-------------|
+| Chair                  | Amy Bailey       | Indiana University Bloomington | abbailey@iu.edu           | 2023        |
+| Vice Chair/Chair Elect | Laura Edwards    | Eastern Kentucky University    | laura.edwards@eku.edu     | 2023        |
+| Secretary              | Morris Levy      | OCLC                           | levymo@oclc.org           | 2023        |
+| Treasurer              | Brittany Davis   | Eastern Kentucky University    | brittany.davis@eku.edu    | 2023        |
+| Archivist              | Kathryn Lybarger | University of Kentucky         | kathryn.lybarger@uky.edu  | 2021 - 2024 |
+| Webmaster              | Derek Zoladz     | OPLIN                          | derek@oplin.ohio.gov      | 2021 - 2024 |
 
 <hr class="invisible"/>
 
