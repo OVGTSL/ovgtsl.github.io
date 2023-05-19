@@ -11,7 +11,7 @@ toc: false
 
 The Ohio Valley Group of Technical Services Librarians (OVGTSL) was founded in 1924 and draws its members primarily from the states of Indiana, Ohio, and Kentucky.
 
-The purpose of the organization is to provide an opportunity to gather together for the interchange of ideas and discussion of issues in library and archive technical services; to form a united group with the aim to keep in touch with movements in the field of technical services; and to cooperate with and offer suggestions to the Association for Library Collections and Technical Services (ALCTS) of the American Library Association and/or the appropriate sections of this Division.
+The purpose of the organization is to provide an opportunity to gather together for the interchange of ideas and discussion of issues in library and archive technical services; to form a united group with the aim to keep in touch with movements in the field of technical services; and to cooperate with other library organizations with similar goals.
 
 <hr class="invisible"/>
 

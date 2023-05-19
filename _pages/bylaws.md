@@ -12,7 +12,7 @@ show_date: true
 
 **Section A.** This group shall be called the Ohio Valley Group of Technical Services Librarians.
 
-**Section B.** Its purpose shall be to provide an opportunity to gather together for the interchange of ideas and the discussion of problems; to form an united group whose aims shall be to keep in touch with movements in the field of resources and technical services; and to cooperate with and offer suggestions to the Association for Library Collections & Technical Services (ALCTS) of the American Library Association and/or the appropriate Sections of this Division.
+**Section B.** Its purpose shall be to provide an opportunity to gather together for the interchange of ideas and the discussion of problems; to form a united group whose aims shall be to keep in touch with movements in the field of resources and technical services; and to cooperate with other library organizations with similar goals.
 
 **Section C.** The geographical area shall be Ohio, Kentucky, and Indiana.
 
@@ -32,11 +32,11 @@ show_date: true
 
 **Section B. 1.** The Chairperson shall have supervision over the group, shall appoint regular and special committees and be an ex-officio member of every committee. She/he shall preside at the business sessions. She/he shall keep the Vice-Chairperson (Chairperson-Elect) advised of the business of the group during the year.
 
-**Section B. 2.** The Vice-Chairperson (Chairperson-Elect) shall serve as Chairperson whenever the Chairperson is unable to do so. She/he shall serve as the Chairperson of the Planning Committee for the annual spring meeting and may be invited to other committee meetings when it seems advisable. The Vice-Chairperson (Chairperson-Elect) will arrange an independent audit of the books within 90 days of the close of the annual meeting.
+**Section B. 2.** The Vice-Chairperson (Chairperson-Elect) shall serve as Chairperson whenever the Chairperson is unable to do so. She/he shall serve as the Chairperson of the Planning Committee for the annual spring meeting and may be invited to other committee meetings when it seems advisable.
 
-**Section B. 3.** The Secretary shall record the minutes of the meeting and assume the responsibility for any necessary correspondence which arises, e.g. business letters, letters of congratulation, condolence, etc. Also note duties recorded under Article VI.
+**Section B. 3.** The Secretary shall record the minutes of the meeting and assume the responsibility for any necessary correspondence which arises, e.g. business letters, letters of congratulation, condolence, etc.
 
-**Section B. 4.** The Treasurer shall receive the dues of the members, pay all authorized bills and make a financial report at the annual meeting. She/he shall also serve as Chairperson of the Registration Committee.
+**Section B. 4.** The Treasurer shall receive the dues of the members, pay all authorized bills and make a financial report at the annual meeting. The treasurer will be responsible for creating a preservation copy of the bank statements for their term and sending them to the Archivist. She/he shall also serve as Chairperson of the Registration Committee.
 
 **Section C.** The Executive Committee shall consist of the Chairperson, Vice-Chairperson (Chairperson-Elect), Secretary, Treasurer, and the past Chairperson.
 
@@ -52,23 +52,19 @@ show_date: true
 
 **Section H.2** Information pertaining to the spring meeting will be incorporated into the OVGTSL web site. The Webmaster will supply login information and basic assistance to member(s) of the Planning Committee appointed by the Vice-Chairperson (Chair-Elect), who will take primary responsibility for creating and maintaining meeting-related content.
 
+**Section I.** A call for nominations for Archivist and Webmaster will be made at least 30 days in advance of the Annual Meeting at which the term will end. There will be a vote held to elect a new Archivist or Webmaster either at the Annual Meeting or conducted via electronic voting to OVGTSL members. The method of voting will be determined by the current Executive Committee.
+
 ## ARTICLE V: MEETINGS
 
 **Section A.** Meetings shall be held annually in the spring before the annual national or regional conference of the American Library Association. Other meetings may be called at the discretion of the Executive Committee.
 
 ## ARTICLE VI: AFFILIATIONS
 
-**Section A .** The Ohio Valley Group of Technical Services Librarians shall affiliate with the Association for Library Collections & Technical Services (ALCTS) of the American Library Association. The Secretary in office at the annual meeting shall send one copy of each paper presented and minutes of the meeting to the Chairperson of the Council of Regional Groups, the Executive Secretary of ALCTS, the newly elected Chairperson of the Group, and to the OVGSTL Archives at the University of Kentucky. This shall be done within one month after the meeting.
-
-**Section B.** The Chairperson of the Ohio Valley Group of Technical Services Librarians shall be considered the Group’s representative at the ALSCTS Council of Regional Groups, if able to attend; if not she/he may appoint a delegate in her/his place. Such a delegate shall be a member of the Association for Library Collections & Technical Services (ALCTS) of the American Library Association.
-
-**Section C (replaced by Article IV, Section H).** A website shall be maintained for the Ohio Valley Group of Technical Services Librarians. The website will contain a brief history of the organization, a list of the current officers, a link to the current annual meeting information, and other appropriate links.
-
-It will be the responsibility of the annual meeting host site to maintain a website at their institution for current annual meeting information and to provide the URL to the website contact for a link to be added to the organization’s website.
+**Section A .** It will be the responsibility of the annual meeting host site to maintain a website at their institution for current annual meeting information and to provide the URL to the website contact for a link to be added to the organization’s website.
 
 ## ARTICLE VII: AMENDMENTS
 
-**Section A.** These by-laws may be amended by a two thirds vote of the members present at any regular meeting or by a two thirds vote of current membership by mail ballot. Amendments may be proposed by the Executive Committee or by any five members. Proposals shall be presented in writing to the Chairperson at least a month before the meeting at which the proposal is to be considered, and submitted to the membership before the date of the next meeting.
+**Section A.** These by-laws may be amended by a two thirds vote of the members present at any regular meeting or by a two thirds vote of current membership by electronic voting. Amendments may be proposed by the Executive Committee or by any five members. Proposals shall be presented in writing to the Chairperson at least a month before the meeting at which the proposal is to be considered, and submitted to the membership before the date of the next meeting.
 
 ## ARTICLE VIII: PRIVACY STATEMENT
 
