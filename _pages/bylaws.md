@@ -3,7 +3,7 @@ layout: single
 permalink: /bylaws/
 title: "OVGTSL Bylaws"
 excerpt: ""
-last_modified_at: 2014-05-14T20:54:41-05:00
+last_modified_at: 2023-05-18T20:54:41-05:00
 toc: false
 show_date: true
 ---
