@@ -20,11 +20,11 @@ minimal_mistakes_skin    : "default"
 # -------------------------------------------------------------------------------
 # Site Settings
 locale                   : "en-US"
-title                    : "Ohio Valley Group of Technical Service Librarians"
+title                    : "Ohio Valley Group of Technical Services Librarians"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "OVGTSL"
-description              : "Primary organization site for the Ohio Valley Group of Technical Service Librarians"
+description              : "Primary organization site for the Ohio Valley Group of Technical Services Librarians"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
