@@ -22,7 +22,7 @@ The purpose of the organization is to provide an opportunity to gather together 
 | Chair                  | Laura Edwards    | Eastern Kentucky University | laura.edwards@eku.edu    | 2023 - 2024 |
 | Vice Chair/Chair Elect | Morris Levy      | OCLC                        | levymo@oclc.org          | 2023 - 2024 |
 | Secretary              | OPEN             |                             |                          |             |
-| Treasurer              | Brittany Davis   | Eastern Kentucky University | brittany.davis@eku.edu   | 2023        |
+| Treasurer              | Megan Johnson    | OCLC                        | johnsonm@oclc.org        | 2023 - 2024 |
 | Archivist              | Kathryn Lybarger | University of Kentucky      | kathryn.lybarger@uky.edu | 2021 - 2024 |
 | Webmaster              | Derek Zoladz     | OPLIN                       | derek@oplin.ohio.gov     | 2021 - 2024 |
 
