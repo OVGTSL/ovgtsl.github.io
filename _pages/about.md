@@ -17,14 +17,14 @@ The purpose of the organization is to provide an opportunity to gather together 
 
 # Contacts
 
-| Board Position         | Name             | Affiliation                 | Email                    | Active      |
-|------------------------|------------------|-----------------------------|--------------------------|-------------|
-| Chair                  | Laura Edwards    | Eastern Kentucky University | laura.edwards@eku.edu    | 2023 - 2024 |
-| Vice Chair/Chair Elect | Morris Levy      | OCLC                        | levymo@oclc.org          | 2023 - 2024 |
-| Secretary              | OPEN             |                             |                          |             |
-| Treasurer              | Megan Johnson    | OCLC                        | johnsonm@oclc.org        | 2023 - 2024 |
-| Archivist              | Kathryn Lybarger | University of Kentucky      | kathryn.lybarger@uky.edu | 2021 - 2024 |
-| Webmaster              | Derek Zoladz     | OPLIN                       | derek@oplin.ohio.gov     | 2021 - 2024 |
+| Board Position         | Name             | Affiliation              | Email                        | Active      |
+|------------------------|------------------|--------------------------|------------------------------|-------------|
+| Chair                  | Morris Levy      | OCLC                     | levymo@oclc.org              | 2024 - 2025 |
+| Vice Chair/Chair Elect | Amanda Phillips  | Indiana State University | Amanda.Phillips@indstate.edu | 2024 - 2025 |
+| Secretary              | OPEN             |                          |                              |             |
+| Treasurer              | OPEN             |                          |                              |             |
+| Archivist              | Kathryn Lybarger | University of Kentucky   | kathryn.lybarger@uky.edu     | 2024 - 2027 |
+| Webmaster              | Michael Dziabiak | OhioNet                  | michaeld@ohionet.org         | 2024 - 2027 |
 
 <hr class="invisible"/>
 
