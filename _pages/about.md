@@ -22,7 +22,7 @@ The purpose of the organization is to provide an opportunity to gather together 
 | Chair                  | Morris Levy      | OCLC                     | levymo@oclc.org              | 2024 - 2025 |
 | Vice Chair/Chair Elect | Amanda Phillips  | Indiana State University | Amanda.Phillips@indstate.edu | 2024 - 2025 |
 | Secretary              | OPEN             |                          |                              |             |
-| Treasurer              | OPEN             |                          |                              |             |
+| Treasurer              | Brylynn Ellis    | Indiana State University | Brylynn.Ellis@indstate.edu   | 2024 - 2025 |
 | Archivist              | Kathryn Lybarger | University of Kentucky   | kathryn.lybarger@uky.edu     | 2024 - 2027 |
 | Webmaster              | Michael Dziabiak | OhioNet                  | michaeld@ohionet.org         | 2024 - 2027 |
 
