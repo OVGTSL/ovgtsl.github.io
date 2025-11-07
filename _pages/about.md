@@ -19,8 +19,8 @@ The purpose of the organization is to provide an opportunity to gather together 
 
 | Board Position         | Name             | Affiliation              | Email                        | Active      |
 |------------------------|------------------|--------------------------|------------------------------|-------------|
-| Chair                  | Morris Levy      | OCLC                     | levymo@oclc.org              | 2024 - 2025 |
-| Vice Chair/Chair Elect | Amanda Phillips  | Indiana State University | Amanda.Phillips@indstate.edu | 2024 - 2025 |
+| Chair                  | Amanda Phillips  | Indiana State University | Amanda.Phillips@indstate.edu | 2025 - 2026 |
+| Vice Chair/Chair Elect | OPEN             |                          |                              |             |
 | Secretary              | OPEN             |                          |                              |             |
 | Treasurer              | Brylynn Ellis    | Indiana State University | Brylynn.Ellis@indstate.edu   | 2024 - 2025 |
 | Archivist              | Kathryn Lybarger | University of Kentucky   | kathryn.lybarger@uky.edu     | 2024 - 2027 |
